@@ -1,0 +1,6 @@
+{
+  "name": "MEDECINE AI",
+  "description": "Plateforme médicale intelligente professionnelle et universitaire — Aide à la décision clinique, pharmacologie pédiatrique, protocoles RDC/OMS et académie médicale.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
